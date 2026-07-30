@@ -31,27 +31,27 @@ The purpose of this repository is to demonstrate a structured approach to planni
 
 ## Repository Structure
 
-📁 Audit Planning
+ Audit Planning
 
 Templates used to define audit scope, objectives, timelines, and engagement planning.
 
-📁 Client Questionnaires
+ Client Questionnaires
 
 Standardized questionnaires used to gather information about an organization's technology environment, business processes, and security practices.
 
-📁 Audit Checklists
+ Audit Checklists
 
 Assessment checklists aligned with recognized IT audit and cybersecurity frameworks.
 
-📁 Risk Assessment
+ Risk Assessment
 
 Risk registers, risk matrices, and documentation used to identify, evaluate, and prioritize risks.
 
-📁 Evidence Collection
+ Evidence Collection
 
 Templates used to document walkthroughs, interviews, screenshots, and supporting audit evidence.
 
-📁 Reporting
+ Reporting
 
 Professional templates for executive summaries, audit findings, remediation plans, and final audit reports.
 
