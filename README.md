@@ -57,7 +57,7 @@ Professional templates for executive summaries, audit findings, remediation plan
 
 ---
 
-Current Portfolio Projects
+## Current Portfolio Projects
 Sample IT General Controls (ITGC) Audit
 
 This repository currently includes a complete sample IT audit engagement consisting of:
