@@ -57,6 +57,23 @@ Professional templates for executive summaries, audit findings, remediation plan
 
 ---
 
+Current Portfolio Projects
+Sample IT General Controls (ITGC) Audit
+
+This repository currently includes a complete sample IT audit engagement consisting of:
+
+Audit Planning Template
+Client Questionnaire
+IT Risk Register
+IT General Controls (ITGC) Testing Checklist
+IT Audit Findings Report
+Executive Dashboard
+Final IT Audit Report (PDF)
+
+This project demonstrates the complete lifecycle of an IT audit engagement, from planning and risk assessment through control testing, reporting, and executive communication.
+
+---
+
 ## About Me
 
 I'm an IT Auditor and GRC professional with a background in social work and a passion for cybersecurity, risk management, and compliance. This repository documents my ongoing learning journey and showcases the practical tools and methodologies I'm developing through independent projects and assessments.
