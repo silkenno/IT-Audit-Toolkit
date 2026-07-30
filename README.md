@@ -1,8 +1,8 @@
-# IT Audit Toolkit
+# IT Audit Portfolio
 
 ## Overview
 
-Welcome to my IT Audit Toolkit.
+Welcome to my IT Audit Portfolio.
 
 This repository contains the templates, checklists, questionnaires, working papers, and reporting documents I use to conduct structured IT audit and cybersecurity assessments. It has been developed as part of my professional portfolio and is based on industry-recognized governance, risk, and compliance (GRC) practices.
 
