@@ -2,6 +2,8 @@
 
 ## Overview
 
+The complete audit engagement can be viewed in the "Sample_IT_General_Controls_Audit_Report.pdf" located in the repository root.
+
 Welcome to my IT Audit Portfolio.
 
 This repository contains the templates, checklists, questionnaires, working papers, and reporting documents I use to conduct structured IT audit and cybersecurity assessments. It has been developed as part of my professional portfolio and is based on industry-recognized governance, risk, and compliance (GRC) practices.
